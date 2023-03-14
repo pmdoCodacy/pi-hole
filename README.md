@@ -2,6 +2,8 @@
 <!-- markdownlint-disable MD033 -->
 #
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/019cd0f41e2d430f96d9f96115a0a7b5)](https://app.codacy.com/gh/pmdoCodacy/pi-hole?utm_source=github.com&utm_medium=referral&utm_content=pmdoCodacy/pi-hole&utm_campaign=Badge_Grade_Settings)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://pi-hole.github.io/graphics/Vortex/Vortex_Vertical_wordmark_darkmode.png">
